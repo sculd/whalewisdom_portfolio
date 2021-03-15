@@ -1,0 +1,6 @@
+AVERAGE_PRICE = 'avg_price'
+PERCENT_OF_PORTFOLIO = 'percent_of_portfolio'
+NUMBER_OF_STOCKS = 'number_of_stocks'
+DOLLAR_INVESTED = 'dollar_invested'
+STOCK_NAME = 'stock_name'
+STOCK_TICKER = 'stock_ticker'
