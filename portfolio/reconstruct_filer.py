@@ -1,5 +1,6 @@
 import requests, numpy as np
-import api_sig
+from util import api_sig
+
 
 def build_portfolio(filer_id, budget):
     url = api_sig.get_request_url(
