@@ -1,0 +1,1 @@
+This repo is a POC that uses [whalewisdom](whalewisdom.com)'s API to copy the portfolio of the registered money managers (hedge fund, mutual funds, etc,.)
